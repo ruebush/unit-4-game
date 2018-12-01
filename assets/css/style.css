@@ -1,0 +1,26 @@
+body {
+    background: url(https://image.redbull.com/rbcom/010/2016-08-22/1331813305789_2/0010/1/1050/700/1/no-man%E2%80%99s-sky.jpg);
+    background-size: cover;
+}
+
+#user-wins, #user-loss, #winning-number, #user-score {
+    color: red;
+    text-align: center;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.element {
+    height: 150px;
+    width: 150px;
+}
+
+#atlas {
+    margin-left: -10%;
+}
+
+#card1, #card2, #card3, #card4 {
+    opacity: .7;
+}
